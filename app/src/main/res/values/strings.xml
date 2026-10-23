@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pratikum D1</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="status_active">Status: Active</string>
+    <string name="muhammad_gian">Muhammad Gian</string>
+    <string name="input_nama">Input Nama</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="buka_form_explicit_intent">Buka Form (Explicit Intent)</string>
+    <string name="buka_website_implicit_intent">Buka Website (Implicit Intent)</string>
+</resources>
